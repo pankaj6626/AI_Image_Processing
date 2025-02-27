@@ -67,7 +67,10 @@ npm start
 | `POST` | `/process-qwen/` | Processes the image and question using Qwen2-VL-7B-Instruct model |
 
 ## Screenshots
-📌 Add relevant screenshots of your project here.
+![AI Image Q&A Website](screenshot(1).png)
+![AI Image Q&A Website](screenshot(2).png)
+![AI Image Q&A Website](screenshot(3).png)
+
 
 ## Contributing
 Feel free to fork the repository and submit pull requests.
@@ -76,7 +79,7 @@ Feel free to fork the repository and submit pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out via **your.email@example.com** or connect on **LinkedIn**.
+For any queries, reach out via **pankajawasthi9569@gmail.com** or connect on **https://www.linkedin.com/in/pankaj-mohan-awasthi-617b55232/**.
 
 ---
 🚀 **Enjoy AI-powered image Q&A!**
